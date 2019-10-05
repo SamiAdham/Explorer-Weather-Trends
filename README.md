@@ -2,7 +2,7 @@
 The project is to show the similarities and differences between my city and global by using visualization chart. Also, to prepare a PDF documents explain all the steps, results and comments. 
 
 # Goals:
-1.	How to extract data from database using SQL query.
+1.	How to extract the data from database using SQL query.
 2.	How to use statistical equation to answer real-life question. Such as comparison between nearest city avg. temperature and global avg. temperature. 
 3.	How to use chart visualization to represent your result.
 
